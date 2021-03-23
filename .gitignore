@@ -1,0 +1,6 @@
+.vscode/
+.theia/
+.idea/
+vendor/
+mermaid.png
+mermaid.svg
